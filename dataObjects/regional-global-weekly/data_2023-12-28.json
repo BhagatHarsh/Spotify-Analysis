@@ -8732,19 +8732,19 @@
     ],
     "highlights": [
         {
-            "type": "LONGEST_STREAK",
-            "text": "“lovely (with Khalid)” by Billie Eilish and Khalid has been on Top Songs Global the longest, at 297 weeks straight.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
-            "backgroundColor": "#7B776E",
+            "type": "ARTIST_WITH_MOST_ENTRIES",
+            "text": "Taylor Swift has the most spots on Top Songs Global. “Cruel Summer” is the highest at #20.",
+            "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4",
+            "backgroundColor": "#62798A",
             "chartLabel": "Top Songs Global · December 22 - 28, 2023",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2023-12-28"
         },
         {
-            "type": "ARTIST_WITH_MOST_ENTRIES",
-            "text": "Taylor Swift has the most spots on Top Songs Global. “Cruel Summer” is the highest at #20.",
-            "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4",
-            "backgroundColor": "#62798A",
+            "type": "HIGHEST_NEW_ENTRY",
+            "text": "“Closer Than This” by Jimin is the highest new entry on Top Songs Global at #65.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273e3dbc03f538633dbb40adf37",
+            "backgroundColor": "#7B6EAF",
             "chartLabel": "Top Songs Global · December 22 - 28, 2023",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2023-12-28"
@@ -8759,10 +8759,10 @@
             "chartUri": "/charts/view/regional-global-weekly/2023-12-28"
         },
         {
-            "type": "HIGHEST_NEW_ENTRY",
-            "text": "“Closer Than This” by Jimin is the highest new entry on Top Songs Global at #65.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273e3dbc03f538633dbb40adf37",
-            "backgroundColor": "#7B6EAF",
+            "type": "LONGEST_STREAK",
+            "text": "“lovely (with Khalid)” by Billie Eilish and Khalid has been on Top Songs Global the longest, at 297 weeks straight.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
+            "backgroundColor": "#7B776E",
             "chartLabel": "Top Songs Global · December 22 - 28, 2023",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2023-12-28"

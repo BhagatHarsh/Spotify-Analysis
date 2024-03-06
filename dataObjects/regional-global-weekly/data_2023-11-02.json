@@ -8786,15 +8786,6 @@
             "chartUri": "/charts/view/regional-global-weekly/2023-11-02"
         },
         {
-            "type": "LONGEST_STREAK",
-            "text": "“Believer” by Imagine Dragons has been on Top Songs Global the longest, at 352 weeks straight.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
-            "backgroundColor": "#184060",
-            "chartLabel": "Top Songs Global · Oct 27 - Nov 2, 2023",
-            "dateLabel": "",
-            "chartUri": "/charts/view/regional-global-weekly/2023-11-02"
-        },
-        {
             "type": "HIGHEST_NEW_ENTRY",
             "text": "“Is It Over Now? (Taylor's Version) (From The Vault)” by Taylor Swift is the highest new entry on Top Songs Global at #1.",
             "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
@@ -8808,6 +8799,15 @@
             "text": "Taylor Swift has the most spots on Top Songs Global. “Is It Over Now? (Taylor's Version) (From The Vault)” is the highest at #1.",
             "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4",
             "backgroundColor": "#62798A",
+            "chartLabel": "Top Songs Global · Oct 27 - Nov 2, 2023",
+            "dateLabel": "",
+            "chartUri": "/charts/view/regional-global-weekly/2023-11-02"
+        },
+        {
+            "type": "LONGEST_STREAK",
+            "text": "“Believer” by Imagine Dragons has been on Top Songs Global the longest, at 352 weeks straight.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
+            "backgroundColor": "#184060",
             "chartLabel": "Top Songs Global · Oct 27 - Nov 2, 2023",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2023-11-02"

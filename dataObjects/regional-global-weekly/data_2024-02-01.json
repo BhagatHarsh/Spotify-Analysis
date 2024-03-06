@@ -8742,6 +8742,15 @@
     ],
     "highlights": [
         {
+            "type": "GREATEST_GAINER",
+            "text": "“Whatever” by Kygo and Ava Max is the biggest gainer on Top Songs Global, up 37 spots at #96.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2734d914470ab899815f103f5cc",
+            "backgroundColor": "#205880",
+            "chartLabel": "Top Songs Global · Jan 26 - Feb 1, 2024",
+            "dateLabel": "",
+            "chartUri": "/charts/view/regional-global-weekly/2024-02-01"
+        },
+        {
             "type": "ARTIST_WITH_MOST_ENTRIES",
             "text": "The Weeknd has the most spots on Top Songs Global. “One Of The Girls (with JENNIE, Lily Rose Depp)” is the highest at #3.",
             "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb",
@@ -8755,15 +8764,6 @@
             "text": "“lovely (with Khalid)” by Billie Eilish and Khalid has been on Top Songs Global the longest, at 302 weeks straight.",
             "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
             "backgroundColor": "#7B776E",
-            "chartLabel": "Top Songs Global · Jan 26 - Feb 1, 2024",
-            "dateLabel": "",
-            "chartUri": "/charts/view/regional-global-weekly/2024-02-01"
-        },
-        {
-            "type": "GREATEST_GAINER",
-            "text": "“Whatever” by Kygo and Ava Max is the biggest gainer on Top Songs Global, up 37 spots at #96.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2734d914470ab899815f103f5cc",
-            "backgroundColor": "#205880",
             "chartLabel": "Top Songs Global · Jan 26 - Feb 1, 2024",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2024-02-01"

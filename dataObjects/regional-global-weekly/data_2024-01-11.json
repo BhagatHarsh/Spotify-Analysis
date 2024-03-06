@@ -4269,29 +4269,39 @@
             "trackMetadata": {
                 "trackName": "Maria Mariah",
                 "trackUri": "spotify:track:00rxTS5TKv3oXpDA6nWfBi",
-                "displayImageUri": "https://i.scdn.co/image/ab67616d00001e025598fce3243d2cc701349465",
+                "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02cf11cdefcfafc03f7593419b",
                 "artists": [
                     {
-                        "name": "KZA Produções",
-                        "spotifyUri": "spotify:artist:1rRhJIu1ufxCjbmMWon6ax",
+                        "name": "JC NO BEAT",
+                        "spotifyUri": "spotify:artist:1xglv0oUbyJaycWFhyec8U",
                         "externalUrl": ""
                     },
                     {
-                        "name": "wonda",
-                        "spotifyUri": "spotify:artist:6UZFfu4v7O1Rr5SiFvEzMJ",
+                        "name": "DJ F7",
+                        "spotifyUri": "spotify:artist:1L5QOwu01wcDbozwIL1XXd",
+                        "externalUrl": ""
+                    },
+                    {
+                        "name": "MC Meno Dani",
+                        "spotifyUri": "spotify:artist:3LqcLDGw41dRZKsM51H9GI",
+                        "externalUrl": ""
+                    },
+                    {
+                        "name": "Silva Mc",
+                        "spotifyUri": "spotify:artist:7v4hw85pzG0M9kJHlBGsi3",
                         "externalUrl": ""
                     }
                 ],
                 "producers": [],
                 "labels": [
                     {
-                        "name": "wonda & oclody",
+                        "name": "Tratto Entretenimentos",
                         "spotifyUri": "",
                         "externalUrl": ""
                     }
                 ],
                 "songWriters": [],
-                "releaseDate": "2024-02-29"
+                "releaseDate": "2023-11-17"
             }
         },
         {
@@ -8777,19 +8787,10 @@
     ],
     "highlights": [
         {
-            "type": "ARTIST_WITH_MOST_ENTRIES",
-            "text": "The Weeknd has the most spots on Top Songs Global. “One Of The Girls (with JENNIE, Lily Rose Depp)” is the highest at #5.",
-            "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb",
-            "backgroundColor": "#4068A0",
-            "chartLabel": "Top Songs Global · January 5 - 11, 2024",
-            "dateLabel": "",
-            "chartUri": "/charts/view/regional-global-weekly/2024-01-11"
-        },
-        {
-            "type": "HIGHEST_NEW_ENTRY",
-            "text": "“CRAZYZ” by Fuerza Regida is the highest new entry on Top Songs Global at #187.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273ad57982065339f7dc2058efe",
-            "backgroundColor": "#927139",
+            "type": "GREATEST_GAINER",
+            "text": "“Murder On The Dancefloor” by Sophie Ellis-Bextor is the biggest gainer on Top Songs Global, up 110 spots at #33.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273b736151ed1c04f2d41d5f69e",
+            "backgroundColor": "#B01040",
             "chartLabel": "Top Songs Global · January 5 - 11, 2024",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2024-01-11"
@@ -8804,10 +8805,19 @@
             "chartUri": "/charts/view/regional-global-weekly/2024-01-11"
         },
         {
-            "type": "GREATEST_GAINER",
-            "text": "“Murder On The Dancefloor” by Sophie Ellis-Bextor is the biggest gainer on Top Songs Global, up 110 spots at #33.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273b736151ed1c04f2d41d5f69e",
-            "backgroundColor": "#B01040",
+            "type": "ARTIST_WITH_MOST_ENTRIES",
+            "text": "The Weeknd has the most spots on Top Songs Global. “One Of The Girls (with JENNIE, Lily Rose Depp)” is the highest at #5.",
+            "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb",
+            "backgroundColor": "#4068A0",
+            "chartLabel": "Top Songs Global · January 5 - 11, 2024",
+            "dateLabel": "",
+            "chartUri": "/charts/view/regional-global-weekly/2024-01-11"
+        },
+        {
+            "type": "HIGHEST_NEW_ENTRY",
+            "text": "“CRAZYZ” by Fuerza Regida is the highest new entry on Top Songs Global at #187.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273ad57982065339f7dc2058efe",
+            "backgroundColor": "#927139",
             "chartLabel": "Top Songs Global · January 5 - 11, 2024",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2024-01-11"

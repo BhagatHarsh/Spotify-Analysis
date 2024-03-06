@@ -5469,29 +5469,39 @@
             "trackMetadata": {
                 "trackName": "Maria Mariah",
                 "trackUri": "spotify:track:00rxTS5TKv3oXpDA6nWfBi",
-                "displayImageUri": "https://i.scdn.co/image/ab67616d00001e025598fce3243d2cc701349465",
+                "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02cf11cdefcfafc03f7593419b",
                 "artists": [
                     {
-                        "name": "KZA Produções",
-                        "spotifyUri": "spotify:artist:1rRhJIu1ufxCjbmMWon6ax",
+                        "name": "JC NO BEAT",
+                        "spotifyUri": "spotify:artist:1xglv0oUbyJaycWFhyec8U",
                         "externalUrl": ""
                     },
                     {
-                        "name": "wonda",
-                        "spotifyUri": "spotify:artist:6UZFfu4v7O1Rr5SiFvEzMJ",
+                        "name": "DJ F7",
+                        "spotifyUri": "spotify:artist:1L5QOwu01wcDbozwIL1XXd",
+                        "externalUrl": ""
+                    },
+                    {
+                        "name": "MC Meno Dani",
+                        "spotifyUri": "spotify:artist:3LqcLDGw41dRZKsM51H9GI",
+                        "externalUrl": ""
+                    },
+                    {
+                        "name": "Silva Mc",
+                        "spotifyUri": "spotify:artist:7v4hw85pzG0M9kJHlBGsi3",
                         "externalUrl": ""
                     }
                 ],
                 "producers": [],
                 "labels": [
                     {
-                        "name": "wonda & oclody",
+                        "name": "Tratto Entretenimentos",
                         "spotifyUri": "",
                         "externalUrl": ""
                     }
                 ],
                 "songWriters": [],
-                "releaseDate": "2024-02-29"
+                "releaseDate": "2023-11-17"
             }
         },
         {
@@ -8787,15 +8797,6 @@
     ],
     "highlights": [
         {
-            "type": "HIGHEST_NEW_ENTRY",
-            "text": "“Rompe La Dompe” by Peso Pluma, Junior H, and Oscar Maydon is the highest new entry on Top Songs Global at #38.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273a7a330bed7c3b2217e3be9a8",
-            "backgroundColor": "#407050",
-            "chartLabel": "Top Songs Global · Dec 29, 2023 - Jan 4, 2024",
-            "dateLabel": "",
-            "chartUri": "/charts/view/regional-global-weekly/2024-01-04"
-        },
-        {
             "type": "LONGEST_STREAK",
             "text": "“lovely (with Khalid)” by Billie Eilish and Khalid has been on Top Songs Global the longest, at 298 weeks straight.",
             "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
@@ -8818,6 +8819,15 @@
             "text": "“Riptide” by Vance Joy is the biggest gainer on Top Songs Global, up 133 spots at #65.",
             "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273a9929deb093a6617d2493b03",
             "backgroundColor": "#C03838",
+            "chartLabel": "Top Songs Global · Dec 29, 2023 - Jan 4, 2024",
+            "dateLabel": "",
+            "chartUri": "/charts/view/regional-global-weekly/2024-01-04"
+        },
+        {
+            "type": "HIGHEST_NEW_ENTRY",
+            "text": "“Rompe La Dompe” by Peso Pluma, Junior H, and Oscar Maydon is the highest new entry on Top Songs Global at #38.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273a7a330bed7c3b2217e3be9a8",
+            "backgroundColor": "#407050",
             "chartLabel": "Top Songs Global · Dec 29, 2023 - Jan 4, 2024",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2024-01-04"

@@ -8751,6 +8751,15 @@
             "chartUri": "/charts/view/regional-global-weekly/2023-11-16"
         },
         {
+            "type": "ARTIST_WITH_MOST_ENTRIES",
+            "text": "Taylor Swift has the most spots on Top Songs Global. “Cruel Summer” is the highest at #4.",
+            "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4",
+            "backgroundColor": "#62798A",
+            "chartLabel": "Top Songs Global · November 10 - 16, 2023",
+            "dateLabel": "",
+            "chartUri": "/charts/view/regional-global-weekly/2023-11-16"
+        },
+        {
             "type": "HIGHEST_NEW_ENTRY",
             "text": "“Houdini” by Dua Lipa is the highest new entry on Top Songs Global at #6.",
             "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273001d5706fddc72561f6488af",
@@ -8764,15 +8773,6 @@
             "text": "“Believer” by Imagine Dragons has been on Top Songs Global the longest, at 354 weeks straight.",
             "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
             "backgroundColor": "#184060",
-            "chartLabel": "Top Songs Global · November 10 - 16, 2023",
-            "dateLabel": "",
-            "chartUri": "/charts/view/regional-global-weekly/2023-11-16"
-        },
-        {
-            "type": "ARTIST_WITH_MOST_ENTRIES",
-            "text": "Taylor Swift has the most spots on Top Songs Global. “Cruel Summer” is the highest at #4.",
-            "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4",
-            "backgroundColor": "#62798A",
             "chartLabel": "Top Songs Global · November 10 - 16, 2023",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2023-11-16"

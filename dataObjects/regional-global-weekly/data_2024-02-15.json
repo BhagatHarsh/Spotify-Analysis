@@ -8832,15 +8832,6 @@
     ],
     "highlights": [
         {
-            "type": "GREATEST_GAINER",
-            "text": "“AMARGURA” by KAROL G is the biggest gainer on Top Songs Global, up 47 spots at #97.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335",
-            "backgroundColor": "#B03028",
-            "chartLabel": "Top Songs Global · February 9 - 15, 2024",
-            "dateLabel": "",
-            "chartUri": "/charts/view/regional-global-weekly/2024-02-15"
-        },
-        {
             "type": "LONGEST_STREAK",
             "text": "“lovely (with Khalid)” by Billie Eilish and Khalid has been on Top Songs Global the longest, at 304 weeks straight.",
             "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
@@ -8854,6 +8845,15 @@
             "text": "Kanye West has the most spots on Top Songs Global. “CARNIVAL” is the highest at #4.",
             "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
             "backgroundColor": "#484848",
+            "chartLabel": "Top Songs Global · February 9 - 15, 2024",
+            "dateLabel": "",
+            "chartUri": "/charts/view/regional-global-weekly/2024-02-15"
+        },
+        {
+            "type": "GREATEST_GAINER",
+            "text": "“AMARGURA” by KAROL G is the biggest gainer on Top Songs Global, up 47 spots at #97.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335",
+            "backgroundColor": "#B03028",
             "chartLabel": "Top Songs Global · February 9 - 15, 2024",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2024-02-15"

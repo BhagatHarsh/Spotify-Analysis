@@ -8742,19 +8742,19 @@
     ],
     "highlights": [
         {
-            "type": "HIGHEST_NEW_ENTRY",
-            "text": "“Arjan Vailly” by Manan Bhardwaj and Bhupinder Babbal is the highest new entry on Top Songs Global at #50.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2735f3ede47954a93aa03efe5f9",
-            "backgroundColor": "#985008",
+            "type": "LONGEST_STREAK",
+            "text": "“lovely (with Khalid)” by Billie Eilish and Khalid has been on Top Songs Global the longest, at 294 weeks straight.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
+            "backgroundColor": "#7B776E",
             "chartLabel": "Top Songs Global · December 1 - 7, 2023",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2023-12-07"
         },
         {
-            "type": "LONGEST_STREAK",
-            "text": "“lovely (with Khalid)” by Billie Eilish and Khalid has been on Top Songs Global the longest, at 294 weeks straight.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
-            "backgroundColor": "#7B776E",
+            "type": "ARTIST_WITH_MOST_ENTRIES",
+            "text": "Taylor Swift has the most spots on Top Songs Global. “Cruel Summer” is the highest at #6.",
+            "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4",
+            "backgroundColor": "#62798A",
             "chartLabel": "Top Songs Global · December 1 - 7, 2023",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2023-12-07"
@@ -8769,10 +8769,10 @@
             "chartUri": "/charts/view/regional-global-weekly/2023-12-07"
         },
         {
-            "type": "ARTIST_WITH_MOST_ENTRIES",
-            "text": "Taylor Swift has the most spots on Top Songs Global. “Cruel Summer” is the highest at #6.",
-            "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4",
-            "backgroundColor": "#62798A",
+            "type": "HIGHEST_NEW_ENTRY",
+            "text": "“Arjan Vailly” by Manan Bhardwaj and Bhupinder Babbal is the highest new entry on Top Songs Global at #50.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2735f3ede47954a93aa03efe5f9",
+            "backgroundColor": "#985008",
             "chartLabel": "Top Songs Global · December 1 - 7, 2023",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2023-12-07"

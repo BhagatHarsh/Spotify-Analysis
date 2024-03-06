@@ -8827,10 +8827,10 @@
     ],
     "highlights": [
         {
-            "type": "HIGHEST_NEW_ENTRY",
-            "text": "“MONACO” by Bad Bunny is the highest new entry on Top Songs Global at #1.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec",
-            "backgroundColor": "#783830",
+            "type": "ARTIST_WITH_MOST_ENTRIES",
+            "text": "Bad Bunny has the most spots on Top Songs Global. “MONACO” is the highest at #1.",
+            "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb9ad50e478a469448c6f369df",
+            "backgroundColor": "#406880",
             "chartLabel": "Top Songs Global · October 13 - 19, 2023",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2023-10-19"
@@ -8845,19 +8845,19 @@
             "chartUri": "/charts/view/regional-global-weekly/2023-10-19"
         },
         {
-            "type": "LONGEST_STREAK",
-            "text": "“Believer” by Imagine Dragons has been on Top Songs Global the longest, at 350 weeks straight.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
-            "backgroundColor": "#184060",
+            "type": "HIGHEST_NEW_ENTRY",
+            "text": "“MONACO” by Bad Bunny is the highest new entry on Top Songs Global at #1.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec",
+            "backgroundColor": "#783830",
             "chartLabel": "Top Songs Global · October 13 - 19, 2023",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2023-10-19"
         },
         {
-            "type": "ARTIST_WITH_MOST_ENTRIES",
-            "text": "Bad Bunny has the most spots on Top Songs Global. “MONACO” is the highest at #1.",
-            "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb9ad50e478a469448c6f369df",
-            "backgroundColor": "#406880",
+            "type": "LONGEST_STREAK",
+            "text": "“Believer” by Imagine Dragons has been on Top Songs Global the longest, at 350 weeks straight.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
+            "backgroundColor": "#184060",
             "chartLabel": "Top Songs Global · October 13 - 19, 2023",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2023-10-19"

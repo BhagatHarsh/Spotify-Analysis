@@ -8737,6 +8737,15 @@
     ],
     "highlights": [
         {
+            "type": "LONGEST_STREAK",
+            "text": "“lovely (with Khalid)” by Billie Eilish and Khalid has been on Top Songs Global the longest, at 301 weeks straight.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
+            "backgroundColor": "#7B776E",
+            "chartLabel": "Top Songs Global · January 19 - 25, 2024",
+            "dateLabel": "",
+            "chartUri": "/charts/view/regional-global-weekly/2024-01-25"
+        },
+        {
             "type": "GREATEST_GAINER",
             "text": "“Unwritten” by Natasha Bedingfield is the biggest gainer on Top Songs Global, up 85 spots at #56.",
             "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273b337e1ca6629a53c66a3b0d4",
@@ -8750,15 +8759,6 @@
             "text": "The Weeknd has the most spots on Top Songs Global. “One Of The Girls (with JENNIE, Lily Rose Depp)” is the highest at #5.",
             "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb",
             "backgroundColor": "#4068A0",
-            "chartLabel": "Top Songs Global · January 19 - 25, 2024",
-            "dateLabel": "",
-            "chartUri": "/charts/view/regional-global-weekly/2024-01-25"
-        },
-        {
-            "type": "LONGEST_STREAK",
-            "text": "“lovely (with Khalid)” by Billie Eilish and Khalid has been on Top Songs Global the longest, at 301 weeks straight.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
-            "backgroundColor": "#7B776E",
             "chartLabel": "Top Songs Global · January 19 - 25, 2024",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2024-01-25"

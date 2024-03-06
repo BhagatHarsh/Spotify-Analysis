@@ -8757,19 +8757,10 @@
     ],
     "highlights": [
         {
-            "type": "LONGEST_STREAK",
-            "text": "“lovely (with Khalid)” by Billie Eilish and Khalid has been on Top Songs Global the longest, at 306 weeks straight.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
-            "backgroundColor": "#7B776E",
-            "chartLabel": "Top Songs Global · February 23 - 29, 2024",
-            "dateLabel": "",
-            "chartUri": "/charts/view/regional-global-weekly/2024-02-29"
-        },
-        {
-            "type": "HIGHEST_NEW_ENTRY",
-            "text": "“Saturn” by SZA is the highest new entry on Top Songs Global at #17.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273d70916ee9e40c90380ba5f07",
-            "backgroundColor": "#773795",
+            "type": "GREATEST_GAINER",
+            "text": "“Regalo De Dios” by Julión Álvarez y su Norteño Banda is the biggest gainer on Top Songs Global, up 38 spots at #106.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b27301b15b3f93799c1823cde7bd",
+            "backgroundColor": "#803038",
             "chartLabel": "Top Songs Global · February 23 - 29, 2024",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2024-02-29"
@@ -8784,10 +8775,19 @@
             "chartUri": "/charts/view/regional-global-weekly/2024-02-29"
         },
         {
-            "type": "GREATEST_GAINER",
-            "text": "“Regalo De Dios” by Julión Álvarez y su Norteño Banda is the biggest gainer on Top Songs Global, up 38 spots at #106.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b27301b15b3f93799c1823cde7bd",
-            "backgroundColor": "#803038",
+            "type": "LONGEST_STREAK",
+            "text": "“lovely (with Khalid)” by Billie Eilish and Khalid has been on Top Songs Global the longest, at 306 weeks straight.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
+            "backgroundColor": "#7B776E",
+            "chartLabel": "Top Songs Global · February 23 - 29, 2024",
+            "dateLabel": "",
+            "chartUri": "/charts/view/regional-global-weekly/2024-02-29"
+        },
+        {
+            "type": "HIGHEST_NEW_ENTRY",
+            "text": "“Saturn” by SZA is the highest new entry on Top Songs Global at #17.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273d70916ee9e40c90380ba5f07",
+            "backgroundColor": "#773795",
             "chartLabel": "Top Songs Global · February 23 - 29, 2024",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2024-02-29"

@@ -8737,15 +8737,6 @@
     ],
     "highlights": [
         {
-            "type": "LONGEST_STREAK",
-            "text": "“Believer” by Imagine Dragons has been on Top Songs Global the longest, at 353 weeks straight.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
-            "backgroundColor": "#184060",
-            "chartLabel": "Top Songs Global · November 3 - 9, 2023",
-            "dateLabel": "",
-            "chartUri": "/charts/view/regional-global-weekly/2023-11-09"
-        },
-        {
             "type": "HIGHEST_NEW_ENTRY",
             "text": "“Standing Next to You” by Jung Kook is the highest new entry on Top Songs Global at #1.",
             "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316",
@@ -8768,6 +8759,15 @@
             "text": "“Take on Me” by a-ha is the biggest gainer on Top Songs Global, up 71 spots at #94.",
             "displayImageUri": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
             "backgroundColor": "#7A7575",
+            "chartLabel": "Top Songs Global · November 3 - 9, 2023",
+            "dateLabel": "",
+            "chartUri": "/charts/view/regional-global-weekly/2023-11-09"
+        },
+        {
+            "type": "LONGEST_STREAK",
+            "text": "“Believer” by Imagine Dragons has been on Top Songs Global the longest, at 353 weeks straight.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
+            "backgroundColor": "#184060",
             "chartLabel": "Top Songs Global · November 3 - 9, 2023",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2023-11-09"

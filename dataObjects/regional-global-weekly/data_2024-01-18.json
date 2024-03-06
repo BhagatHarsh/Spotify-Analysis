@@ -8791,15 +8791,6 @@
             "chartUri": "/charts/view/regional-global-weekly/2024-01-18"
         },
         {
-            "type": "LONGEST_STREAK",
-            "text": "“lovely (with Khalid)” by Billie Eilish and Khalid has been on Top Songs Global the longest, at 300 weeks straight.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
-            "backgroundColor": "#7B776E",
-            "chartLabel": "Top Songs Global · January 12 - 18, 2024",
-            "dateLabel": "",
-            "chartUri": "/charts/view/regional-global-weekly/2024-01-18"
-        },
-        {
             "type": "HIGHEST_NEW_ENTRY",
             "text": "“yes, and?” by Ariana Grande is the highest new entry on Top Songs Global at #1.",
             "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2736b0b6e20fdb1ee07de7e92d6",
@@ -8813,6 +8804,15 @@
             "text": "21 Savage has the most spots on Top Songs Global. “redrum” is the highest at #8.",
             "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eba5e754a9c1fc7ad7ee01798b",
             "backgroundColor": "#737777",
+            "chartLabel": "Top Songs Global · January 12 - 18, 2024",
+            "dateLabel": "",
+            "chartUri": "/charts/view/regional-global-weekly/2024-01-18"
+        },
+        {
+            "type": "LONGEST_STREAK",
+            "text": "“lovely (with Khalid)” by Billie Eilish and Khalid has been on Top Songs Global the longest, at 300 weeks straight.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
+            "backgroundColor": "#7B776E",
             "chartLabel": "Top Songs Global · January 12 - 18, 2024",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2024-01-18"
