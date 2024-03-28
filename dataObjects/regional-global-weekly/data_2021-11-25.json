@@ -308,7 +308,7 @@
             "backgroundColor": "#773795",
             "textColor": "#FFFFFF",
             "dimensions": {
-                "latestDate": "2024-02-29",
+                "latestDate": "2024-03-21",
                 "earliestDate": "2016-12-29",
                 "country": "GLOBAL",
                 "chartType": "TOP_TRACK",
@@ -4347,7 +4347,7 @@
             },
             "missingRequiredFields": false,
             "trackMetadata": {
-                "trackName": "GHOST TOWN",
+                "trackName": "Ghost Town",
                 "trackUri": "spotify:track:135Lf4Q0CzlMNfOxbEUsLH",
                 "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02dc94a17624484c674252385b",
                 "artists": [
@@ -8802,10 +8802,10 @@
     ],
     "highlights": [
         {
-            "type": "ARTIST_WITH_MOST_ENTRIES",
-            "text": "Adele has the most spots on Top Songs Global. “Easy On Me” is the highest at #1.",
-            "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17",
-            "backgroundColor": "#203840",
+            "type": "LONGEST_STREAK",
+            "text": "“Believer” by Imagine Dragons has been on Top Songs Global the longest, at 251 weeks straight.",
+            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
+            "backgroundColor": "#184060",
             "chartLabel": "Top Songs Global · November 19 - 25, 2021",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2021-11-25"
@@ -8820,10 +8820,10 @@
             "chartUri": "/charts/view/regional-global-weekly/2021-11-25"
         },
         {
-            "type": "LONGEST_STREAK",
-            "text": "“Believer” by Imagine Dragons has been on Top Songs Global the longest, at 251 weeks straight.",
-            "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
-            "backgroundColor": "#184060",
+            "type": "ARTIST_WITH_MOST_ENTRIES",
+            "text": "Adele has the most spots on Top Songs Global. “Easy On Me” is the highest at #1.",
+            "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17",
+            "backgroundColor": "#203840",
             "chartLabel": "Top Songs Global · November 19 - 25, 2021",
             "dateLabel": "",
             "chartUri": "/charts/view/regional-global-weekly/2021-11-25"
