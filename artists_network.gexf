@@ -1,0 +1,1274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-04-11">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="category" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Michael Bublé" label="Michael Bublé">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Camila Cabello" label="Camila Cabello">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="J. Cole" label="J. Cole">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Sia" label="Sia">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Calvin Harris" label="Calvin Harris">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Gunna" label="Gunna">
+        <attvalues>
+          <attvalue for="0" value="Bad Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Kodak Black" label="Kodak Black">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="João Gomes" label="João Gomes">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Bad Collab" />
+        </attvalues>
+      </node>
+      <node id="Dua Lipa" label="Dua Lipa">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Trevor Daniel" label="Trevor Daniel">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Kanye West" label="Kanye West">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Myke Towers" label="Myke Towers">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Giveon" label="Giveon">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Avicii" label="Avicii">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="The Weeknd" label="The Weeknd">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Offset" label="Offset">
+        <attvalues>
+          <attvalue for="0" value="Bad Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Nacho" label="Nacho">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Trueno" label="Trueno">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Bruno Mars" label="Bruno Mars">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Post Malone" label="Post Malone">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Manuel Turizo" label="Manuel Turizo">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="SZA" label="SZA">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="NLE Choppa" label="NLE Choppa">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Lauv" label="Lauv">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Labrinth" label="Labrinth">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Carin Leon" label="Carin Leon">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="BTS" label="BTS">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Saweetie" label="Saweetie">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Big Sean" label="Big Sean">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Rae Sremmurd" label="Rae Sremmurd">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Zion &amp; Lennox" label="Zion &amp; Lennox">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Mora" label="Mora">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Jimin" label="Jimin">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Wolfine" label="Wolfine">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Joji" label="Joji">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Tom Grennan" label="Tom Grennan">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Rich The Kid" label="Rich The Kid">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Lady Gaga" label="Lady Gaga">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Anne-Marie" label="Anne-Marie">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Camilo" label="Camilo">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Elley Duhé" label="Elley Duhé">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="21 Savage" label="21 Savage">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Cris Mj" label="Cris Mj">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Bad Collab" />
+        </attvalues>
+      </node>
+      <node id="MØ" label="MØ">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Loredana" label="Loredana">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Chencho Corleone" label="Chencho Corleone">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Ice Spice" label="Ice Spice">
+        <attvalues>
+          <attvalue for="0" value="Bad Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Lana Del Rey" label="Lana Del Rey">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Famous Dex" label="Famous Dex">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Sebastian Yatra" label="Sebastian Yatra">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Lil Peep" label="Lil Peep">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Rihanna" label="Rihanna">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Ana Castela" label="Ana Castela">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Chance the Rapper" label="Chance the Rapper">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Lil Wayne" label="Lil Wayne">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="JVKE" label="JVKE">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Liam Payne" label="Liam Payne">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Piso 21" label="Piso 21">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Zara Larsson" label="Zara Larsson">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="mgk" label="mgk">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Polo G" label="Polo G">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Elton John" label="Elton John">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="J Balvin" label="J Balvin">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Nicky Jam" label="Nicky Jam">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Clairo" label="Clairo">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Bad Collab" />
+        </attvalues>
+      </node>
+      <node id="Coldplay" label="Coldplay">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Wisin" label="Wisin">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Tiësto" label="Tiësto">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="NewJeans" label="NewJeans">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="JP Cooper" label="JP Cooper">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Cardi B" label="Cardi B">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Trippie Redd" label="Trippie Redd">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Sam Smith" label="Sam Smith">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Gym Class Heroes" label="Gym Class Heroes">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Lizzo" label="Lizzo">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Farruko" label="Farruko">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Kid Cudi" label="Kid Cudi">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Bad Collab" />
+        </attvalues>
+      </node>
+      <node id="Imagine Dragons" label="Imagine Dragons">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Paulo Londra" label="Paulo Londra">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Frank Sinatra" label="Frank Sinatra">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Lil Tecca" label="Lil Tecca">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="HVME" label="HVME">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Ski Mask The Slump God" label="Ski Mask The Slump God">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="XXXTENTACION" label="XXXTENTACION">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Eminem" label="Eminem">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Ed Sheeran" label="Ed Sheeran">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="ScHoolboy Q" label="ScHoolboy Q">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Sfera Ebbasta" label="Sfera Ebbasta">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Jack Harlow" label="Jack Harlow">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="5 Seconds of Summer" label="5 Seconds of Summer">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Pusha T" label="Pusha T">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Maria Becerra" label="Maria Becerra">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Troye Sivan" label="Troye Sivan">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Queen" label="Queen">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="P!nk" label="P!nk">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Tove Lo" label="Tove Lo">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Kali Uchis" label="Kali Uchis">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Chris Brown" label="Chris Brown">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Tyga" label="Tyga">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Anitta" label="Anitta">
+        <attvalues>
+          <attvalue for="0" value="Bad Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Halsey" label="Halsey">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Bebe Rexha" label="Bebe Rexha">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Peso Pluma" label="Peso Pluma">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Fifth Harmony" label="Fifth Harmony">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Julia Michaels" label="Julia Michaels">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Dean Lewis" label="Dean Lewis">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Lil Pump" label="Lil Pump">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Coi Leray" label="Coi Leray">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Samra" label="Samra">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Aya Nakamura" label="Aya Nakamura">
+        <attvalues>
+          <attvalue for="0" value="Bad Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Linkin Park" label="Linkin Park">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Bad Collab" />
+        </attvalues>
+      </node>
+      <node id="CKay" label="CKay">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Maroon 5" label="Maroon 5">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Galantis" label="Galantis">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="A Boogie Wit da Hoodie" label="A Boogie Wit da Hoodie">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Beyoncé" label="Beyoncé">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Logic" label="Logic">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Teto" label="Teto">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Regard" label="Regard">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Jonas Brothers" label="Jonas Brothers">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="BLACKPINK" label="BLACKPINK">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Morgan Wallen" label="Morgan Wallen">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Bad Collab" />
+        </attvalues>
+      </node>
+      <node id="ROSALÍA" label="ROSALÍA">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Damso" label="Damso">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Sech" label="Sech">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Stephen Sanchez" label="Stephen Sanchez">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="YNW Melly" label="YNW Melly">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Louis Tomlinson" label="Louis Tomlinson">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Quevedo" label="Quevedo">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Mac Miller" label="Mac Miller">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="YoungBoy Never Broke Again" label="YoungBoy Never Broke Again">
+        <attvalues>
+          <attvalue for="0" value="Bad Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="WILLOW" label="WILLOW">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Florida Georgia Line" label="Florida Georgia Line">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Olivia Rodrigo" label="Olivia Rodrigo">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Bad Collab" />
+        </attvalues>
+      </node>
+      <node id="Fuerza Regida" label="Fuerza Regida">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Roddy Ricch" label="Roddy Ricch">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="thasup" label="thasup">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Natanael Cano" label="Natanael Cano">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="A$AP Rocky" label="A$AP Rocky">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Jason Derulo" label="Jason Derulo">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Marshmello" label="Marshmello">
+        <attvalues>
+          <attvalue for="0" value="Bad Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="LISA" label="LISA">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Bad Collab" />
+        </attvalues>
+      </node>
+      <node id="Grupo Frontera" label="Grupo Frontera">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Michelle Williams" label="Michelle Williams">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Ellie Goulding" label="Ellie Goulding">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Justin Timberlake" label="Justin Timberlake">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Agust D" label="Agust D">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Rita Ora" label="Rita Ora">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Shouse" label="Shouse">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Blueface" label="Blueface">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Dave" label="Dave">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Alvaro Soler" label="Alvaro Soler">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Ozuna" label="Ozuna">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Demi Lovato" label="Demi Lovato">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Alan Walker" label="Alan Walker">
+        <attvalues>
+          <attvalue for="0" value="Bad Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="JENNIE" label="JENNIE">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Khalid" label="Khalid">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Nicki Minaj" label="Nicki Minaj">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Ninho" label="Ninho">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="James Arthur" label="James Arthur">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Hailee Steinfeld" label="Hailee Steinfeld">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Miley Cyrus" label="Miley Cyrus">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Selena Gomez" label="Selena Gomez">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="PinkPantheress" label="PinkPantheress">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Playboi Carti" label="Playboi Carti">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Capital Bra" label="Capital Bra">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Jung Kook" label="Jung Kook">
+        <attvalues>
+          <attvalue for="0" value="Bad Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Zacari" label="Zacari">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Conan Gray" label="Conan Gray">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Rauw Alejandro" label="Rauw Alejandro">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="ZAYN" label="ZAYN">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="BoyWithUke" label="BoyWithUke">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Juice WRLD" label="Juice WRLD">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Dalex" label="Dalex">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Lil Baby" label="Lil Baby">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="OneRepublic" label="OneRepublic">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Anuel AA" label="Anuel AA">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Ariana Grande" label="Ariana Grande">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="blackbear" label="blackbear">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Tate McRae" label="Tate McRae">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Young Miko" label="Young Miko">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Rema" label="Rema">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Lil Nas X" label="Lil Nas X">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Chino Pacas" label="Chino Pacas">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Bad Collab" />
+        </attvalues>
+      </node>
+      <node id="Kendrick Lamar" label="Kendrick Lamar">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="The Kid LAROI" label="The Kid LAROI">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Normani" label="Normani">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Shawn Mendes" label="Shawn Mendes">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Kesha" label="Kesha">
+        <attvalues>
+          <attvalue for="0" value="Bad Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Travis Scott" label="Travis Scott">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Lil Uzi Vert" label="Lil Uzi Vert">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="KAROL G" label="KAROL G">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Prince Royce" label="Prince Royce">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Shakira" label="Shakira">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Daddy Yankee" label="Daddy Yankee">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Stormzy" label="Stormzy">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Quavo" label="Quavo">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Aqua" label="Aqua">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Kelly Clarkson" label="Kelly Clarkson">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Bad Collab" />
+        </attvalues>
+      </node>
+      <node id="JACKBOYS" label="JACKBOYS">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Ava Max" label="Ava Max">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Maluma" label="Maluma">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Bea Miller" label="Bea Miller">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Don Toliver" label="Don Toliver">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Bazzi" label="Bazzi">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Zach Bryan" label="Zach Bryan">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Panic! At The Disco" label="Panic! At The Disco">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="John Legend" label="John Legend">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Jess Glynne" label="Jess Glynne">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Drake" label="Drake">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Os Barões Da Pisadinha" label="Os Barões Da Pisadinha">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Little Mix" label="Little Mix">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Tarcísio do Acordeon" label="Tarcísio do Acordeon">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Israel &amp; Rodolffo" label="Israel &amp; Rodolffo">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Tory Lanez" label="Tory Lanez">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Lil Skies" label="Lil Skies">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="KIDS SEE GHOSTS" label="KIDS SEE GHOSTS">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Feid" label="Feid">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Doja Cat" label="Doja Cat">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Bing Crosby" label="Bing Crosby">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Lil Tjay" label="Lil Tjay">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Yng Lvcas" label="Yng Lvcas">
+        <attvalues>
+          <attvalue for="0" value="Bad Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Stephanie Beatriz" label="Stephanie Beatriz">
+        <attvalues>
+          <attvalue for="0" value="Bad Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Maren Morris" label="Maren Morris">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="DaBaby" label="DaBaby">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Apache 207" label="Apache 207">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="6ix9ine" label="6ix9ine">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Hozier" label="Hozier">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Future" label="Future">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="YBN Nahmir" label="YBN Nahmir">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Junior H" label="Junior H">
+        <attvalues>
+          <attvalue for="0" value="Bad Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Mariah Carey" label="Mariah Carey">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Bad Collab" />
+        </attvalues>
+      </node>
+      <node id="Bonez MC" label="Bonez MC">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Frank Ocean" label="Frank Ocean">
+        <attvalues>
+          <attvalue for="0" value="Bad Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Zé Felipe" label="Zé Felipe">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Bad Bunny" label="Bad Bunny">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="The Chainsmokers" label="The Chainsmokers">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Billie Eilish" label="Billie Eilish">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Justin Bieber" label="Justin Bieber">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Taylor Swift" label="Taylor Swift">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Charlie Puth" label="Charlie Puth">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Migos" label="Migos">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Sheck Wes" label="Sheck Wes">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Pop Smoke" label="Pop Smoke">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Alessia Cara" label="Alessia Cara">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Megan Thee Stallion" label="Megan Thee Stallion">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+      <node id="Vance Joy" label="Vance Joy">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Luísa Sonza" label="Luísa Sonza">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Daya" label="Daya">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Romeo Santos" label="Romeo Santos">
+        <attvalues>
+          <attvalue for="0" value="Bad Both" />
+        </attvalues>
+      </node>
+      <node id="Meghan Trainor" label="Meghan Trainor">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Bad Collab" />
+        </attvalues>
+      </node>
+      <node id="CNCO" label="CNCO">
+        <attvalues>
+          <attvalue for="0" value="Good Solo Good Collab" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges />
+  </graph>
+</gexf>
